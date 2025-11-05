@@ -1,4 +1,4 @@
 mountpoints:
   /:
-    url: https://main--dapdaone--dprevelige.ue.da.live/
+    url: https://da.live/dprevelige/dapdaone
     type: markup
